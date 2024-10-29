@@ -13,9 +13,9 @@ This Laravel backend provides the API services for the Wiki Donate application. 
 ## Prerequisites
 
 -   **PHP 8.1+**
--   **Laravel 11** (recommended)
+-   **Laravel 11**
 -   **Composer**
--   **Database** (MySQL, PostgreSQL, or SQLite recommended)
+-   **Database** (MySQL)
 
 ## Install Dependencies
 
